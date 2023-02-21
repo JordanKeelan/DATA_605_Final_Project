@@ -1,0 +1,611 @@
+,Area,Year,Item,Element Code,Unit,value
+141,World,1961-01-01,Cranberries,5419,hg/ha,64614.0
+145,World,1961-01-01,Cucumbers and gherkins,5419,hg/ha,94308.0
+169,World,1961-01-01,"Ginger, raw",5419,hg/ha,19218.0
+179,World,1961-01-01,Green garlic,5419,hg/ha,55764.0
+268,World,1961-01-01,Oil palm fruit,5419,hg/ha,37658.0
+339,World,1961-01-01,"Pumpkins, squash and gourds",5419,hg/ha,44705.0
+355,World,1961-01-01,Rape or colza seed,5419,hg/ha,5728.0
+408,World,1961-01-01,Spinach,5419,hg/ha,88804.0
+464,World,1961-01-01,Watermelons,5419,hg/ha,91267.0
+467,World,1961-01-01,Wheat,5419,hg/ha,10889.0
+620,World,1962-01-01,Cranberries,5419,hg/ha,72108.0
+624,World,1962-01-01,Cucumbers and gherkins,5419,hg/ha,91698.0
+648,World,1962-01-01,"Ginger, raw",5419,hg/ha,21602.0
+658,World,1962-01-01,Green garlic,5419,hg/ha,56581.0
+747,World,1962-01-01,Oil palm fruit,5419,hg/ha,38702.0
+818,World,1962-01-01,"Pumpkins, squash and gourds",5419,hg/ha,43123.0
+834,World,1962-01-01,Rape or colza seed,5419,hg/ha,5875.0
+887,World,1962-01-01,Spinach,5419,hg/ha,93904.0
+943,World,1962-01-01,Watermelons,5419,hg/ha,95913.0
+946,World,1962-01-01,Wheat,5419,hg/ha,12060.0
+1099,World,1963-01-01,Cranberries,5419,hg/ha,69815.0
+1103,World,1963-01-01,Cucumbers and gherkins,5419,hg/ha,94886.0
+1127,World,1963-01-01,"Ginger, raw",5419,hg/ha,21027.0
+1137,World,1963-01-01,Green garlic,5419,hg/ha,58149.0
+1226,World,1963-01-01,Oil palm fruit,5419,hg/ha,38605.0
+1297,World,1963-01-01,"Pumpkins, squash and gourds",5419,hg/ha,38102.0
+1313,World,1963-01-01,Rape or colza seed,5419,hg/ha,5361.0
+1366,World,1963-01-01,Spinach,5419,hg/ha,99805.0
+1422,World,1963-01-01,Watermelons,5419,hg/ha,97503.0
+1425,World,1963-01-01,Wheat,5419,hg/ha,11320.0
+1578,World,1964-01-01,Cranberries,5419,hg/ha,71912.0
+1582,World,1964-01-01,Cucumbers and gherkins,5419,hg/ha,96698.0
+1606,World,1964-01-01,"Ginger, raw",5419,hg/ha,20718.0
+1616,World,1964-01-01,Green garlic,5419,hg/ha,56794.0
+1705,World,1964-01-01,Oil palm fruit,5419,hg/ha,38379.0
+1776,World,1964-01-01,"Pumpkins, squash and gourds",5419,hg/ha,37637.0
+1792,World,1964-01-01,Rape or colza seed,5419,hg/ha,5659.0
+1845,World,1964-01-01,Spinach,5419,hg/ha,100388.0
+1901,World,1964-01-01,Watermelons,5419,hg/ha,100630.0
+1904,World,1964-01-01,Wheat,5419,hg/ha,12413.0
+2057,World,1965-01-01,Cranberries,5419,hg/ha,77207.0
+2061,World,1965-01-01,Cucumbers and gherkins,5419,hg/ha,97154.0
+2085,World,1965-01-01,"Ginger, raw",5419,hg/ha,22900.0
+2095,World,1965-01-01,Green garlic,5419,hg/ha,59392.0
+2184,World,1965-01-01,Oil palm fruit,5419,hg/ha,38126.0
+2255,World,1965-01-01,"Pumpkins, squash and gourds",5419,hg/ha,42838.0
+2271,World,1965-01-01,Rape or colza seed,5419,hg/ha,7408.0
+2324,World,1965-01-01,Spinach,5419,hg/ha,104113.0
+2380,World,1965-01-01,Watermelons,5419,hg/ha,99156.0
+2383,World,1965-01-01,Wheat,5419,hg/ha,12151.0
+2536,World,1966-01-01,Cranberries,5419,hg/ha,84825.0
+2540,World,1966-01-01,Cucumbers and gherkins,5419,hg/ha,102697.0
+2564,World,1966-01-01,"Ginger, raw",5419,hg/ha,22002.0
+2574,World,1966-01-01,Green garlic,5419,hg/ha,60702.0
+2663,World,1966-01-01,Oil palm fruit,5419,hg/ha,38856.0
+2734,World,1966-01-01,"Pumpkins, squash and gourds",5419,hg/ha,51218.0
+2750,World,1966-01-01,Rape or colza seed,5419,hg/ha,6743.0
+2803,World,1966-01-01,Spinach,5419,hg/ha,107155.0
+2859,World,1966-01-01,Watermelons,5419,hg/ha,106461.0
+2862,World,1966-01-01,Wheat,5419,hg/ha,14079.0
+3015,World,1967-01-01,Cranberries,5419,hg/ha,74658.0
+3019,World,1967-01-01,Cucumbers and gherkins,5419,hg/ha,105816.0
+3043,World,1967-01-01,"Ginger, raw",5419,hg/ha,23340.0
+3053,World,1967-01-01,Green garlic,5419,hg/ha,61438.0
+3142,World,1967-01-01,Oil palm fruit,5419,hg/ha,42653.0
+3213,World,1967-01-01,"Pumpkins, squash and gourds",5419,hg/ha,57090.0
+3229,World,1967-01-01,Rape or colza seed,5419,hg/ha,7422.0
+3282,World,1967-01-01,Spinach,5419,hg/ha,108667.0
+3338,World,1967-01-01,Watermelons,5419,hg/ha,108284.0
+3341,World,1967-01-01,Wheat,5419,hg/ha,13392.0
+3494,World,1968-01-01,Cranberries,5419,hg/ha,78187.0
+3498,World,1968-01-01,Cucumbers and gherkins,5419,hg/ha,109731.0
+3522,World,1968-01-01,"Ginger, raw",5419,hg/ha,24131.0
+3532,World,1968-01-01,Green garlic,5419,hg/ha,66400.0
+3621,World,1968-01-01,Oil palm fruit,5419,hg/ha,44186.0
+3692,World,1968-01-01,"Pumpkins, squash and gourds",5419,hg/ha,69003.0
+3708,World,1968-01-01,Rape or colza seed,5419,hg/ha,7633.0
+3761,World,1968-01-01,Spinach,5419,hg/ha,117900.0
+3817,World,1968-01-01,Watermelons,5419,hg/ha,110044.0
+3820,World,1968-01-01,Wheat,5419,hg/ha,14534.0
+3973,World,1969-01-01,Cranberries,5419,hg/ha,96379.0
+3977,World,1969-01-01,Cucumbers and gherkins,5419,hg/ha,110614.0
+4001,World,1969-01-01,"Ginger, raw",5419,hg/ha,27148.0
+4011,World,1969-01-01,Green garlic,5419,hg/ha,68512.0
+4100,World,1969-01-01,Oil palm fruit,5419,hg/ha,44818.0
+4171,World,1969-01-01,"Pumpkins, squash and gourds",5419,hg/ha,73157.0
+4187,World,1969-01-01,Rape or colza seed,5419,hg/ha,7275.0
+4240,World,1969-01-01,Spinach,5419,hg/ha,121665.0
+4296,World,1969-01-01,Watermelons,5419,hg/ha,110991.0
+4299,World,1969-01-01,Wheat,5419,hg/ha,14174.0
+4452,World,1970-01-01,Cranberries,5419,hg/ha,105392.0
+4456,World,1970-01-01,Cucumbers and gherkins,5419,hg/ha,116155.0
+4480,World,1970-01-01,"Ginger, raw",5419,hg/ha,29066.0
+4490,World,1970-01-01,Green garlic,5419,hg/ha,68563.0
+4582,World,1970-01-01,Oil palm fruit,5419,hg/ha,46362.0
+4653,World,1970-01-01,"Pumpkins, squash and gourds",5419,hg/ha,79460.0
+4669,World,1970-01-01,Rape or colza seed,5419,hg/ha,8160.0
+4722,World,1970-01-01,Spinach,5419,hg/ha,136055.0
+4778,World,1970-01-01,Watermelons,5419,hg/ha,111778.0
+4781,World,1970-01-01,Wheat,5419,hg/ha,14941.0
+4934,World,1971-01-01,Cranberries,5419,hg/ha,112474.0
+4938,World,1971-01-01,Cucumbers and gherkins,5419,hg/ha,115845.0
+4962,World,1971-01-01,"Ginger, raw",5419,hg/ha,26166.0
+4972,World,1971-01-01,Green garlic,5419,hg/ha,69790.0
+5064,World,1971-01-01,Oil palm fruit,5419,hg/ha,49272.0
+5135,World,1971-01-01,"Pumpkins, squash and gourds",5419,hg/ha,81365.0
+5151,World,1971-01-01,Rape or colza seed,5419,hg/ha,8978.0
+5204,World,1971-01-01,Spinach,5419,hg/ha,137461.0
+5260,World,1971-01-01,Watermelons,5419,hg/ha,120102.0
+5263,World,1971-01-01,Wheat,5419,hg/ha,16245.0
+5416,World,1972-01-01,Cranberries,5419,hg/ha,103399.0
+5420,World,1972-01-01,Cucumbers and gherkins,5419,hg/ha,115405.0
+5444,World,1972-01-01,"Ginger, raw",5419,hg/ha,27688.0
+5454,World,1972-01-01,Green garlic,5419,hg/ha,66912.0
+5546,World,1972-01-01,Oil palm fruit,5419,hg/ha,51932.0
+5617,World,1972-01-01,"Pumpkins, squash and gourds",5419,hg/ha,81265.0
+5633,World,1972-01-01,Rape or colza seed,5419,hg/ha,7754.0
+5686,World,1972-01-01,Spinach,5419,hg/ha,133961.0
+5742,World,1972-01-01,Watermelons,5419,hg/ha,110907.0
+5745,World,1972-01-01,Wheat,5419,hg/ha,16046.0
+5898,World,1973-01-01,Cranberries,5419,hg/ha,103135.0
+5902,World,1973-01-01,Cucumbers and gherkins,5419,hg/ha,117573.0
+5926,World,1973-01-01,"Ginger, raw",5419,hg/ha,28036.0
+5936,World,1973-01-01,Green garlic,5419,hg/ha,70455.0
+6028,World,1973-01-01,Oil palm fruit,5419,hg/ha,53082.0
+6099,World,1973-01-01,"Pumpkins, squash and gourds",5419,hg/ha,83552.0
+6115,World,1973-01-01,Rape or colza seed,5419,hg/ha,8269.0
+6168,World,1973-01-01,Spinach,5419,hg/ha,134868.0
+6224,World,1973-01-01,Watermelons,5419,hg/ha,112235.0
+6227,World,1973-01-01,Wheat,5419,hg/ha,16836.0
+6380,World,1974-01-01,Cranberries,5419,hg/ha,107303.0
+6384,World,1974-01-01,Cucumbers and gherkins,5419,hg/ha,116134.0
+6408,World,1974-01-01,"Ginger, raw",5419,hg/ha,28317.0
+6418,World,1974-01-01,Green garlic,5419,hg/ha,71252.0
+6510,World,1974-01-01,Oil palm fruit,5419,hg/ha,55738.0
+6581,World,1974-01-01,"Pumpkins, squash and gourds",5419,hg/ha,85147.0
+6597,World,1974-01-01,Rape or colza seed,5419,hg/ha,8312.0
+6650,World,1974-01-01,Spinach,5419,hg/ha,139882.0
+6706,World,1974-01-01,Watermelons,5419,hg/ha,118329.0
+6709,World,1974-01-01,Wheat,5419,hg/ha,16155.0
+6862,World,1975-01-01,Cranberries,5419,hg/ha,101593.0
+6866,World,1975-01-01,Cucumbers and gherkins,5419,hg/ha,119312.0
+6890,World,1975-01-01,"Ginger, raw",5419,hg/ha,28107.0
+6900,World,1975-01-01,Green garlic,5419,hg/ha,71516.0
+6992,World,1975-01-01,Oil palm fruit,5419,hg/ha,59255.0
+7063,World,1975-01-01,"Pumpkins, squash and gourds",5419,hg/ha,88276.0
+7079,World,1975-01-01,Rape or colza seed,5419,hg/ha,8867.0
+7132,World,1975-01-01,Spinach,5419,hg/ha,140837.0
+7191,World,1975-01-01,Watermelons,5419,hg/ha,126215.0
+7194,World,1975-01-01,Wheat,5419,hg/ha,15701.0
+7347,World,1976-01-01,Cranberries,5419,hg/ha,117215.0
+7351,World,1976-01-01,Cucumbers and gherkins,5419,hg/ha,119081.0
+7375,World,1976-01-01,"Ginger, raw",5419,hg/ha,29810.0
+7385,World,1976-01-01,Green garlic,5419,hg/ha,72022.0
+7477,World,1976-01-01,Oil palm fruit,5419,hg/ha,59149.0
+7548,World,1976-01-01,"Pumpkins, squash and gourds",5419,hg/ha,87624.0
+7564,World,1976-01-01,Rape or colza seed,5419,hg/ha,8869.0
+7617,World,1976-01-01,Spinach,5419,hg/ha,140653.0
+7676,World,1976-01-01,Watermelons,5419,hg/ha,126977.0
+7679,World,1976-01-01,Wheat,5419,hg/ha,17911.0
+7832,World,1977-01-01,Cranberries,5419,hg/ha,105834.0
+7836,World,1977-01-01,Cucumbers and gherkins,5419,hg/ha,126492.0
+7860,World,1977-01-01,"Ginger, raw",5419,hg/ha,31617.0
+7870,World,1977-01-01,Green garlic,5419,hg/ha,72210.0
+7962,World,1977-01-01,Oil palm fruit,5419,hg/ha,59858.0
+8033,World,1977-01-01,"Pumpkins, squash and gourds",5419,hg/ha,91052.0
+8049,World,1977-01-01,Rape or colza seed,5419,hg/ha,8740.0
+8102,World,1977-01-01,Spinach,5419,hg/ha,140788.0
+8161,World,1977-01-01,Watermelons,5419,hg/ha,127371.0
+8164,World,1977-01-01,Wheat,5419,hg/ha,16724.0
+8317,World,1978-01-01,Cranberries,5419,hg/ha,118795.0
+8321,World,1978-01-01,Cucumbers and gherkins,5419,hg/ha,116722.0
+8345,World,1978-01-01,"Ginger, raw",5419,hg/ha,41232.0
+8355,World,1978-01-01,Green garlic,5419,hg/ha,67781.0
+8447,World,1978-01-01,Oil palm fruit,5419,hg/ha,66693.0
+8518,World,1978-01-01,"Pumpkins, squash and gourds",5419,hg/ha,92892.0
+8534,World,1978-01-01,Rape or colza seed,5419,hg/ha,9470.0
+8587,World,1978-01-01,Spinach,5419,hg/ha,158013.0
+8646,World,1978-01-01,Watermelons,5419,hg/ha,121248.0
+8649,World,1978-01-01,Wheat,5419,hg/ha,19328.0
+8802,World,1979-01-01,Cranberries,5419,hg/ha,119243.0
+8806,World,1979-01-01,Cucumbers and gherkins,5419,hg/ha,126086.0
+8830,World,1979-01-01,"Ginger, raw",5419,hg/ha,39385.0
+8840,World,1979-01-01,Green garlic,5419,hg/ha,70565.0
+8932,World,1979-01-01,Oil palm fruit,5419,hg/ha,65742.0
+9003,World,1979-01-01,"Pumpkins, squash and gourds",5419,hg/ha,96913.0
+9019,World,1979-01-01,Rape or colza seed,5419,hg/ha,8962.0
+9072,World,1979-01-01,Spinach,5419,hg/ha,137402.0
+9131,World,1979-01-01,Watermelons,5419,hg/ha,133692.0
+9134,World,1979-01-01,Wheat,5419,hg/ha,18522.0
+9287,World,1980-01-01,Cranberries,5419,hg/ha,129736.0
+9291,World,1980-01-01,Cucumbers and gherkins,5419,hg/ha,120860.0
+9315,World,1980-01-01,"Ginger, raw",5419,hg/ha,35651.0
+9325,World,1980-01-01,Green garlic,5419,hg/ha,68643.0
+9417,World,1980-01-01,Oil palm fruit,5419,hg/ha,69815.0
+9488,World,1980-01-01,"Pumpkins, squash and gourds",5419,hg/ha,95026.0
+9504,World,1980-01-01,Rape or colza seed,5419,hg/ha,9786.0
+9557,World,1980-01-01,Spinach,5419,hg/ha,134327.0
+9616,World,1980-01-01,Watermelons,5419,hg/ha,138219.0
+9619,World,1980-01-01,Wheat,5419,hg/ha,18554.0
+9772,World,1981-01-01,Cranberries,5419,hg/ha,124571.0
+9776,World,1981-01-01,Cucumbers and gherkins,5419,hg/ha,130857.0
+9800,World,1981-01-01,"Ginger, raw",5419,hg/ha,39883.0
+9810,World,1981-01-01,Green garlic,5419,hg/ha,69577.0
+9902,World,1981-01-01,Oil palm fruit,5419,hg/ha,76026.0
+9973,World,1981-01-01,"Pumpkins, squash and gourds",5419,hg/ha,98657.0
+9989,World,1981-01-01,Rape or colza seed,5419,hg/ha,10356.0
+10042,World,1981-01-01,Spinach,5419,hg/ha,135975.0
+10101,World,1981-01-01,Watermelons,5419,hg/ha,143658.0
+10104,World,1981-01-01,Wheat,5419,hg/ha,18800.0
+10257,World,1982-01-01,Cranberries,5419,hg/ha,144835.0
+10261,World,1982-01-01,Cucumbers and gherkins,5419,hg/ha,131748.0
+10285,World,1982-01-01,"Ginger, raw",5419,hg/ha,38366.0
+10295,World,1982-01-01,Green garlic,5419,hg/ha,70942.0
+10390,World,1982-01-01,Oil palm fruit,5419,hg/ha,85319.0
+10461,World,1982-01-01,"Pumpkins, squash and gourds",5419,hg/ha,96742.0
+10477,World,1982-01-01,Rape or colza seed,5419,hg/ha,11613.0
+10530,World,1982-01-01,Spinach,5419,hg/ha,125536.0
+10589,World,1982-01-01,Watermelons,5419,hg/ha,141301.0
+10592,World,1982-01-01,Wheat,5419,hg/ha,19992.0
+10745,World,1983-01-01,Cranberries,5419,hg/ha,136910.0
+10749,World,1983-01-01,Cucumbers and gherkins,5419,hg/ha,131551.0
+10773,World,1983-01-01,"Ginger, raw",5419,hg/ha,37945.0
+10783,World,1983-01-01,Green garlic,5419,hg/ha,71536.0
+10878,World,1983-01-01,Oil palm fruit,5419,hg/ha,78801.0
+10949,World,1983-01-01,"Pumpkins, squash and gourds",5419,hg/ha,99939.0
+10965,World,1983-01-01,Rape or colza seed,5419,hg/ha,11059.0
+11018,World,1983-01-01,Spinach,5419,hg/ha,127475.0
+11077,World,1983-01-01,Watermelons,5419,hg/ha,142596.0
+11080,World,1983-01-01,Wheat,5419,hg/ha,21258.0
+11233,World,1984-01-01,Cranberries,5419,hg/ha,149337.0
+11237,World,1984-01-01,Cucumbers and gherkins,5419,hg/ha,134060.0
+11261,World,1984-01-01,"Ginger, raw",5419,hg/ha,35449.0
+11271,World,1984-01-01,Green garlic,5419,hg/ha,72138.0
+11366,World,1984-01-01,Oil palm fruit,5419,hg/ha,86530.0
+11437,World,1984-01-01,"Pumpkins, squash and gourds",5419,hg/ha,106559.0
+11453,World,1984-01-01,Rape or colza seed,5419,hg/ha,12365.0
+11506,World,1984-01-01,Spinach,5419,hg/ha,258967.0
+11565,World,1984-01-01,Watermelons,5419,hg/ha,143543.0
+11568,World,1984-01-01,Wheat,5419,hg/ha,22201.0
+11721,World,1985-01-01,Cranberries,5419,hg/ha,150077.0
+11725,World,1985-01-01,Cucumbers and gherkins,5419,hg/ha,133251.0
+11749,World,1985-01-01,"Ginger, raw",5419,hg/ha,36744.0
+11759,World,1985-01-01,Green garlic,5419,hg/ha,74365.0
+11854,World,1985-01-01,Oil palm fruit,5419,hg/ha,88232.0
+11925,World,1985-01-01,"Pumpkins, squash and gourds",5419,hg/ha,103524.0
+11941,World,1985-01-01,Rape or colza seed,5419,hg/ha,13040.0
+11994,World,1985-01-01,Spinach,5419,hg/ha,125083.0
+12055,World,1985-01-01,Watermelons,5419,hg/ha,149606.0
+12058,World,1985-01-01,Wheat,5419,hg/ha,21719.0
+12211,World,1986-01-01,Cranberries,5419,hg/ha,155108.0
+12215,World,1986-01-01,Cucumbers and gherkins,5419,hg/ha,135571.0
+12239,World,1986-01-01,"Ginger, raw",5419,hg/ha,33975.0
+12249,World,1986-01-01,Green garlic,5419,hg/ha,75106.0
+12344,World,1986-01-01,Oil palm fruit,5419,hg/ha,91161.0
+12415,World,1986-01-01,"Pumpkins, squash and gourds",5419,hg/ha,110525.0
+12431,World,1986-01-01,Rape or colza seed,5419,hg/ha,13127.0
+12484,World,1986-01-01,Spinach,5419,hg/ha,124167.0
+12545,World,1986-01-01,Watermelons,5419,hg/ha,148154.0
+12548,World,1986-01-01,Wheat,5419,hg/ha,23213.0
+12701,World,1987-01-01,Cranberries,5419,hg/ha,140530.0
+12705,World,1987-01-01,Cucumbers and gherkins,5419,hg/ha,137089.0
+12729,World,1987-01-01,"Ginger, raw",5419,hg/ha,30461.0
+12739,World,1987-01-01,Green garlic,5419,hg/ha,74951.0
+12834,World,1987-01-01,Oil palm fruit,5419,hg/ha,90710.0
+12905,World,1987-01-01,"Pumpkins, squash and gourds",5419,hg/ha,110463.0
+12921,World,1987-01-01,Rape or colza seed,5419,hg/ha,14156.0
+12975,World,1987-01-01,Spinach,5419,hg/ha,124753.0
+13036,World,1987-01-01,Watermelons,5419,hg/ha,153951.0
+13039,World,1987-01-01,Wheat,5419,hg/ha,22900.0
+13192,World,1988-01-01,Cranberries,5419,hg/ha,165590.0
+13196,World,1988-01-01,Cucumbers and gherkins,5419,hg/ha,135824.0
+13220,World,1988-01-01,"Ginger, raw",5419,hg/ha,29776.0
+13230,World,1988-01-01,Green garlic,5419,hg/ha,76651.0
+13325,World,1988-01-01,Oil palm fruit,5419,hg/ha,94952.0
+13396,World,1988-01-01,"Pumpkins, squash and gourds",5419,hg/ha,111266.0
+13412,World,1988-01-01,Rape or colza seed,5419,hg/ha,12399.0
+13466,World,1988-01-01,Spinach,5419,hg/ha,124482.0
+13527,World,1988-01-01,Watermelons,5419,hg/ha,154328.0
+13530,World,1988-01-01,Wheat,5419,hg/ha,22926.0
+13683,World,1989-01-01,Cranberries,5419,hg/ha,145139.0
+13687,World,1989-01-01,Cucumbers and gherkins,5419,hg/ha,133008.0
+13711,World,1989-01-01,"Ginger, raw",5419,hg/ha,27619.0
+13721,World,1989-01-01,Green garlic,5419,hg/ha,78951.0
+13816,World,1989-01-01,Oil palm fruit,5419,hg/ha,100484.0
+13887,World,1989-01-01,"Pumpkins, squash and gourds",5419,hg/ha,108148.0
+13903,World,1989-01-01,Rape or colza seed,5419,hg/ha,13123.0
+13957,World,1989-01-01,Spinach,5419,hg/ha,117271.0
+14018,World,1989-01-01,Watermelons,5419,hg/ha,149602.0
+14021,World,1989-01-01,Wheat,5419,hg/ha,23732.0
+14177,World,1990-01-01,Cranberries,5419,hg/ha,135431.0
+14181,World,1990-01-01,Cucumbers and gherkins,5419,hg/ha,147326.0
+14205,World,1990-01-01,"Ginger, raw",5419,hg/ha,27932.0
+14215,World,1990-01-01,Green garlic,5419,hg/ha,79653.0
+14310,World,1990-01-01,Oil palm fruit,5419,hg/ha,99591.0
+14381,World,1990-01-01,"Pumpkins, squash and gourds",5419,hg/ha,109911.0
+14397,World,1990-01-01,Rape or colza seed,5419,hg/ha,13871.0
+14451,World,1990-01-01,Spinach,5419,hg/ha,127410.0
+14512,World,1990-01-01,Watermelons,5419,hg/ha,165131.0
+14515,World,1990-01-01,Wheat,5419,hg/ha,25626.0
+14673,World,1991-01-01,Cranberries,5419,hg/ha,172309.0
+14677,World,1991-01-01,Cucumbers and gherkins,5419,hg/ha,149751.0
+14720,World,1991-01-01,"Ginger, raw",5419,hg/ha,28719.0
+14732,World,1991-01-01,Green garlic,5419,hg/ha,89418.0
+14823,World,1991-01-01,Oil palm fruit,5419,hg/ha,93043.0
+14894,World,1991-01-01,"Pumpkins, squash and gourds",5419,hg/ha,113465.0
+14910,World,1991-01-01,Rape or colza seed,5419,hg/ha,13968.0
+14966,World,1991-01-01,Spinach,5419,hg/ha,129884.0
+15027,World,1991-01-01,Watermelons,5419,hg/ha,159815.0
+15030,World,1991-01-01,Wheat,5419,hg/ha,24414.0
+15188,World,1992-01-01,Cranberries,5419,hg/ha,152156.0
+15192,World,1992-01-01,Cucumbers and gherkins,5419,hg/ha,154467.0
+15235,World,1992-01-01,"Ginger, raw",5419,hg/ha,28955.0
+15247,World,1992-01-01,Green garlic,5419,hg/ha,92783.0
+15338,World,1992-01-01,Oil palm fruit,5419,hg/ha,93602.0
+15409,World,1992-01-01,"Pumpkins, squash and gourds",5419,hg/ha,119179.0
+15425,World,1992-01-01,Rape or colza seed,5419,hg/ha,13203.0
+15481,World,1992-01-01,Spinach,5419,hg/ha,130814.0
+15542,World,1992-01-01,Watermelons,5419,hg/ha,162975.0
+15545,World,1992-01-01,Wheat,5419,hg/ha,25340.0
+15703,World,1993-01-01,Cranberries,5419,hg/ha,143777.0
+15707,World,1993-01-01,Cucumbers and gherkins,5419,hg/ha,155815.0
+15750,World,1993-01-01,"Ginger, raw",5419,hg/ha,28336.0
+15762,World,1993-01-01,Green garlic,5419,hg/ha,92420.0
+15853,World,1993-01-01,Oil palm fruit,5419,hg/ha,105087.0
+15924,World,1993-01-01,"Pumpkins, squash and gourds",5419,hg/ha,123612.0
+15940,World,1993-01-01,Rape or colza seed,5419,hg/ha,13179.0
+15996,World,1993-01-01,Spinach,5419,hg/ha,132712.0
+16057,World,1993-01-01,Watermelons,5419,hg/ha,169873.0
+16060,World,1993-01-01,Wheat,5419,hg/ha,25370.0
+16218,World,1994-01-01,Cranberries,5419,hg/ha,162980.0
+16222,World,1994-01-01,Cucumbers and gherkins,5419,hg/ha,155237.0
+16265,World,1994-01-01,"Ginger, raw",5419,hg/ha,24750.0
+16277,World,1994-01-01,Green garlic,5419,hg/ha,91677.0
+16368,World,1994-01-01,Oil palm fruit,5419,hg/ha,104003.0
+16439,World,1994-01-01,"Pumpkins, squash and gourds",5419,hg/ha,120817.0
+16455,World,1994-01-01,Rape or colza seed,5419,hg/ha,13203.0
+16511,World,1994-01-01,Spinach,5419,hg/ha,134990.0
+16572,World,1994-01-01,Watermelons,5419,hg/ha,173384.0
+16575,World,1994-01-01,Wheat,5419,hg/ha,24777.0
+16733,World,1995-01-01,Cranberries,5419,hg/ha,145277.0
+16737,World,1995-01-01,Cucumbers and gherkins,5419,hg/ha,158101.0
+16780,World,1995-01-01,"Ginger, raw",5419,hg/ha,25310.0
+16792,World,1995-01-01,Green garlic,5419,hg/ha,96264.0
+16883,World,1995-01-01,Oil palm fruit,5419,hg/ha,105997.0
+16954,World,1995-01-01,"Pumpkins, squash and gourds",5419,hg/ha,124731.0
+16970,World,1995-01-01,Rape or colza seed,5419,hg/ha,14226.0
+17026,World,1995-01-01,Spinach,5419,hg/ha,133734.0
+17087,World,1995-01-01,Watermelons,5419,hg/ha,178368.0
+17090,World,1995-01-01,Wheat,5419,hg/ha,24958.0
+17248,World,1996-01-01,Cranberries,5419,hg/ha,152805.0
+17252,World,1996-01-01,Cucumbers and gherkins,5419,hg/ha,164119.0
+17295,World,1996-01-01,"Ginger, raw",5419,hg/ha,29381.0
+17307,World,1996-01-01,Green garlic,5419,hg/ha,101123.0
+17398,World,1996-01-01,Oil palm fruit,5419,hg/ha,106097.0
+17469,World,1996-01-01,"Pumpkins, squash and gourds",5419,hg/ha,124959.0
+17485,World,1996-01-01,Rape or colza seed,5419,hg/ha,14035.0
+17541,World,1996-01-01,Spinach,5419,hg/ha,135704.0
+17602,World,1996-01-01,Watermelons,5419,hg/ha,194132.0
+17605,World,1996-01-01,Wheat,5419,hg/ha,25640.0
+17763,World,1997-01-01,Cranberries,5419,hg/ha,159480.0
+17767,World,1997-01-01,Cucumbers and gherkins,5419,hg/ha,159866.0
+17810,World,1997-01-01,"Ginger, raw",5419,hg/ha,30299.0
+17822,World,1997-01-01,Green garlic,5419,hg/ha,96307.0
+17913,World,1997-01-01,Oil palm fruit,5419,hg/ha,107697.0
+17984,World,1997-01-01,"Pumpkins, squash and gourds",5419,hg/ha,126236.0
+18000,World,1997-01-01,Rape or colza seed,5419,hg/ha,15025.0
+18056,World,1997-01-01,Spinach,5419,hg/ha,132996.0
+18117,World,1997-01-01,Watermelons,5419,hg/ha,233742.0
+18120,World,1997-01-01,Wheat,5419,hg/ha,27157.0
+18278,World,1998-01-01,Cranberries,5419,hg/ha,148548.0
+18282,World,1998-01-01,Cucumbers and gherkins,5419,hg/ha,157353.0
+18325,World,1998-01-01,"Ginger, raw",5419,hg/ha,31909.0
+18337,World,1998-01-01,Green garlic,5419,hg/ha,95514.0
+18428,World,1998-01-01,Oil palm fruit,5419,hg/ha,102894.0
+18499,World,1998-01-01,"Pumpkins, squash and gourds",5419,hg/ha,121741.0
+18515,World,1998-01-01,Rape or colza seed,5419,hg/ha,13777.0
+18571,World,1998-01-01,Spinach,5419,hg/ha,130421.0
+18632,World,1998-01-01,Watermelons,5419,hg/ha,216409.0
+18635,World,1998-01-01,Wheat,5419,hg/ha,27063.0
+18793,World,1999-01-01,Cranberries,5419,hg/ha,166670.0
+18797,World,1999-01-01,Cucumbers and gherkins,5419,hg/ha,158185.0
+18840,World,1999-01-01,"Ginger, raw",5419,hg/ha,34734.0
+18852,World,1999-01-01,Green garlic,5419,hg/ha,97723.0
+18943,World,1999-01-01,Oil palm fruit,5419,hg/ha,114632.0
+19014,World,1999-01-01,"Pumpkins, squash and gourds",5419,hg/ha,117897.0
+19030,World,1999-01-01,Rape or colza seed,5419,hg/ha,15714.0
+19086,World,1999-01-01,Spinach,5419,hg/ha,127126.0
+19147,World,1999-01-01,Watermelons,5419,hg/ha,243540.0
+19150,World,1999-01-01,Wheat,5419,hg/ha,27462.0
+19308,World,2000-01-01,Cranberries,5419,hg/ha,152945.0
+19312,World,2000-01-01,Cucumbers and gherkins,5419,hg/ha,185391.0
+19355,World,2000-01-01,"Ginger, raw",5419,hg/ha,35626.0
+19367,World,2000-01-01,Green garlic,5419,hg/ha,102207.0
+19458,World,2000-01-01,Oil palm fruit,5419,hg/ha,116276.0
+19529,World,2000-01-01,"Pumpkins, squash and gourds",5419,hg/ha,121917.0
+19545,World,2000-01-01,Rape or colza seed,5419,hg/ha,15277.0
+19601,World,2000-01-01,Spinach,5419,hg/ha,141908.0
+19662,World,2000-01-01,Watermelons,5419,hg/ha,243309.0
+19665,World,2000-01-01,Wheat,5419,hg/ha,27316.0
+19823,World,2001-01-01,Cranberries,5419,hg/ha,141570.0
+19827,World,2001-01-01,Cucumbers and gherkins,5419,hg/ha,195525.0
+19870,World,2001-01-01,"Ginger, raw",5419,hg/ha,37726.0
+19882,World,2001-01-01,Green garlic,5419,hg/ha,105381.0
+19973,World,2001-01-01,Oil palm fruit,5419,hg/ha,119046.0
+20044,World,2001-01-01,"Pumpkins, squash and gourds",5419,hg/ha,125752.0
+20060,World,2001-01-01,Rape or colza seed,5419,hg/ha,15832.0
+20116,World,2001-01-01,Spinach,5419,hg/ha,143649.0
+20177,World,2001-01-01,Watermelons,5419,hg/ha,255938.0
+20180,World,2001-01-01,Wheat,5419,hg/ha,27417.0
+20338,World,2002-01-01,Cranberries,5419,hg/ha,150314.0
+20342,World,2002-01-01,Cucumbers and gherkins,5419,hg/ha,216779.0
+20385,World,2002-01-01,"Ginger, raw",5419,hg/ha,37656.0
+20397,World,2002-01-01,Green garlic,5419,hg/ha,113343.0
+20488,World,2002-01-01,Oil palm fruit,5419,hg/ha,116376.0
+20559,World,2002-01-01,"Pumpkins, squash and gourds",5419,hg/ha,129094.0
+20575,World,2002-01-01,Rape or colza seed,5419,hg/ha,15364.0
+20631,World,2002-01-01,Spinach,5419,hg/ha,149162.0
+20692,World,2002-01-01,Watermelons,5419,hg/ha,273295.0
+20695,World,2002-01-01,Wheat,5419,hg/ha,27551.0
+20853,World,2003-01-01,Cranberries,5419,hg/ha,170298.0
+20857,World,2003-01-01,Cucumbers and gherkins,5419,hg/ha,222579.0
+20900,World,2003-01-01,"Ginger, raw",5419,hg/ha,38494.0
+20912,World,2003-01-01,Green garlic,5419,hg/ha,120499.0
+21003,World,2003-01-01,Oil palm fruit,5419,hg/ha,122697.0
+21074,World,2003-01-01,"Pumpkins, squash and gourds",5419,hg/ha,131273.0
+21090,World,2003-01-01,Rape or colza seed,5419,hg/ha,15262.0
+21146,World,2003-01-01,Spinach,5419,hg/ha,158508.0
+21207,World,2003-01-01,Watermelons,5419,hg/ha,257103.0
+21210,World,2003-01-01,Wheat,5419,hg/ha,26514.0
+21368,World,2004-01-01,Cranberries,5419,hg/ha,170015.0
+21372,World,2004-01-01,Cucumbers and gherkins,5419,hg/ha,226215.0
+21415,World,2004-01-01,"Ginger, raw",5419,hg/ha,38136.0
+21427,World,2004-01-01,Green garlic,5419,hg/ha,125274.0
+21518,World,2004-01-01,Oil palm fruit,5419,hg/ha,128006.0
+21589,World,2004-01-01,"Pumpkins, squash and gourds",5419,hg/ha,129157.0
+21605,World,2004-01-01,Rape or colza seed,5419,hg/ha,18578.0
+21661,World,2004-01-01,Spinach,5419,hg/ha,172529.0
+21722,World,2004-01-01,Watermelons,5419,hg/ha,272290.0
+21725,World,2004-01-01,Wheat,5419,hg/ha,29426.0
+21883,World,2005-01-01,Cranberries,5419,hg/ha,173831.0
+21887,World,2005-01-01,Cucumbers and gherkins,5419,hg/ha,239930.0
+21930,World,2005-01-01,"Ginger, raw",5419,hg/ha,39388.0
+21942,World,2005-01-01,Green garlic,5419,hg/ha,127651.0
+22033,World,2005-01-01,Oil palm fruit,5419,hg/ha,135456.0
+22104,World,2005-01-01,"Pumpkins, squash and gourds",5419,hg/ha,129658.0
+22120,World,2005-01-01,Rape or colza seed,5419,hg/ha,17847.0
+22176,World,2005-01-01,Spinach,5419,hg/ha,177439.0
+22237,World,2005-01-01,Watermelons,5419,hg/ha,280390.0
+22240,World,2005-01-01,Wheat,5419,hg/ha,28287.0
+22398,World,2006-01-01,Cranberries,5419,hg/ha,182492.0
+22402,World,2006-01-01,Cucumbers and gherkins,5419,hg/ha,264296.0
+22445,World,2006-01-01,"Ginger, raw",5419,hg/ha,38655.0
+22457,World,2006-01-01,Green garlic,5419,hg/ha,130698.0
+22548,World,2006-01-01,Oil palm fruit,5419,hg/ha,141650.0
+22619,World,2006-01-01,"Pumpkins, squash and gourds",5419,hg/ha,130279.0
+22635,World,2006-01-01,Rape or colza seed,5419,hg/ha,17883.0
+22691,World,2006-01-01,Spinach,5419,hg/ha,181623.0
+22752,World,2006-01-01,Watermelons,5419,hg/ha,280498.0
+22755,World,2006-01-01,Wheat,5419,hg/ha,28904.0
+22913,World,2007-01-01,Cranberries,5419,hg/ha,174628.0
+22917,World,2007-01-01,Cucumbers and gherkins,5419,hg/ha,274776.0
+22960,World,2007-01-01,"Ginger, raw",5419,hg/ha,66162.0
+22972,World,2007-01-01,Green garlic,5419,hg/ha,154215.0
+23063,World,2007-01-01,Oil palm fruit,5419,hg/ha,132838.0
+23134,World,2007-01-01,"Pumpkins, squash and gourds",5419,hg/ha,130410.0
+23150,World,2007-01-01,Rape or colza seed,5419,hg/ha,17163.0
+23206,World,2007-01-01,Spinach,5419,hg/ha,198609.0
+23267,World,2007-01-01,Watermelons,5419,hg/ha,268687.0
+23270,World,2007-01-01,Wheat,5419,hg/ha,28155.0
+23428,World,2008-01-01,Cranberries,5419,hg/ha,201999.0
+23432,World,2008-01-01,Cucumbers and gherkins,5419,hg/ha,304233.0
+23475,World,2008-01-01,"Ginger, raw",5419,hg/ha,64715.0
+23487,World,2008-01-01,Green garlic,5419,hg/ha,162295.0
+23578,World,2008-01-01,Oil palm fruit,5419,hg/ha,138785.0
+23649,World,2008-01-01,"Pumpkins, squash and gourds",5419,hg/ha,130401.0
+23665,World,2008-01-01,Rape or colza seed,5419,hg/ha,18899.0
+23721,World,2008-01-01,Spinach,5419,hg/ha,231505.0
+23782,World,2008-01-01,Watermelons,5419,hg/ha,283787.0
+23785,World,2008-01-01,Wheat,5419,hg/ha,30626.0
+23943,World,2009-01-01,Cranberries,5419,hg/ha,182569.0
+23947,World,2009-01-01,Cucumbers and gherkins,5419,hg/ha,308383.0
+23990,World,2009-01-01,"Ginger, raw",5419,hg/ha,63959.0
+24002,World,2009-01-01,Green garlic,5419,hg/ha,167137.0
+24093,World,2009-01-01,Oil palm fruit,5419,hg/ha,133869.0
+24164,World,2009-01-01,"Pumpkins, squash and gourds",5419,hg/ha,130641.0
+24180,World,2009-01-01,Rape or colza seed,5419,hg/ha,19663.0
+24236,World,2009-01-01,Spinach,5419,hg/ha,241403.0
+24297,World,2009-01-01,Watermelons,5419,hg/ha,289133.0
+24300,World,2009-01-01,Wheat,5419,hg/ha,30357.0
+24458,World,2010-01-01,Cranberries,5419,hg/ha,174531.0
+24462,World,2010-01-01,Cucumbers and gherkins,5419,hg/ha,309465.0
+24505,World,2010-01-01,"Ginger, raw",5419,hg/ha,65160.0
+24517,World,2010-01-01,Green garlic,5419,hg/ha,168828.0
+24609,World,2010-01-01,Oil palm fruit,5419,hg/ha,139034.0
+24680,World,2010-01-01,"Pumpkins, squash and gourds",5419,hg/ha,130743.0
+24696,World,2010-01-01,Rape or colza seed,5419,hg/ha,18646.0
+24752,World,2010-01-01,Spinach,5419,hg/ha,240723.0
+24813,World,2010-01-01,Watermelons,5419,hg/ha,291736.0
+24816,World,2010-01-01,Wheat,5419,hg/ha,29721.0
+24974,World,2011-01-01,Cranberries,5419,hg/ha,197262.0
+24978,World,2011-01-01,Cucumbers and gherkins,5419,hg/ha,324855.0
+25021,World,2011-01-01,"Ginger, raw",5419,hg/ha,76833.0
+25033,World,2011-01-01,Green garlic,5419,hg/ha,166713.0
+25125,World,2011-01-01,Oil palm fruit,5419,hg/ha,145427.0
+25196,World,2011-01-01,"Pumpkins, squash and gourds",5419,hg/ha,132488.0
+25212,World,2011-01-01,Rape or colza seed,5419,hg/ha,18587.0
+25268,World,2011-01-01,Spinach,5419,hg/ha,245547.0
+25329,World,2011-01-01,Watermelons,5419,hg/ha,295052.0
+25332,World,2011-01-01,Wheat,5419,hg/ha,31639.0
+25488,World,2012-01-01,Cranberries,5419,hg/ha,207904.0
+25492,World,2012-01-01,Cucumbers and gherkins,5419,hg/ha,334644.0
+25535,World,2012-01-01,"Ginger, raw",5419,hg/ha,67756.0
+25547,World,2012-01-01,Green garlic,5419,hg/ha,161895.0
+25639,World,2012-01-01,Oil palm fruit,5419,hg/ha,145363.0
+25710,World,2012-01-01,"Pumpkins, squash and gourds",5419,hg/ha,131034.0
+25726,World,2012-01-01,Rape or colza seed,5419,hg/ha,18046.0
+25782,World,2012-01-01,Spinach,5419,hg/ha,250636.0
+25843,World,2012-01-01,Watermelons,5419,hg/ha,307217.0
+25846,World,2012-01-01,Wheat,5419,hg/ha,30917.0
+26002,World,2013-01-01,Cranberries,5419,hg/ha,213977.0
+26006,World,2013-01-01,Cucumbers and gherkins,5419,hg/ha,347034.0
+26049,World,2013-01-01,"Ginger, raw",5419,hg/ha,65533.0
+26061,World,2013-01-01,Green garlic,5419,hg/ha,169634.0
+26153,World,2013-01-01,Oil palm fruit,5419,hg/ha,146838.0
+26224,World,2013-01-01,"Pumpkins, squash and gourds",5419,hg/ha,131791.0
+26240,World,2013-01-01,Rape or colza seed,5419,hg/ha,20012.0
+26296,World,2013-01-01,Spinach,5419,hg/ha,253664.0
+26357,World,2013-01-01,Watermelons,5419,hg/ha,309270.0
+26360,World,2013-01-01,Wheat,5419,hg/ha,32472.0
+26516,World,2014-01-01,Cranberries,5419,hg/ha,232529.0
+26520,World,2014-01-01,Cucumbers and gherkins,5419,hg/ha,355926.0
+26563,World,2014-01-01,"Ginger, raw",5419,hg/ha,73714.0
+26575,World,2014-01-01,Green garlic,5419,hg/ha,176394.0
+26667,World,2014-01-01,Oil palm fruit,5419,hg/ha,149008.0
+26738,World,2014-01-01,"Pumpkins, squash and gourds",5419,hg/ha,132546.0
+26754,World,2014-01-01,Rape or colza seed,5419,hg/ha,20435.0
+26810,World,2014-01-01,Spinach,5419,hg/ha,257402.0
+26871,World,2014-01-01,Watermelons,5419,hg/ha,313326.0
+26874,World,2014-01-01,Wheat,5419,hg/ha,33162.0
+27030,World,2015-01-01,Cranberries,5419,hg/ha,221685.0
+27034,World,2015-01-01,Cucumbers and gherkins,5419,hg/ha,362897.0
+27077,World,2015-01-01,"Ginger, raw",5419,hg/ha,79572.0
+27089,World,2015-01-01,Green garlic,5419,hg/ha,179706.0
+27181,World,2015-01-01,Oil palm fruit,5419,hg/ha,147811.0
+27252,World,2015-01-01,"Pumpkins, squash and gourds",5419,hg/ha,131630.0
+27268,World,2015-01-01,Rape or colza seed,5419,hg/ha,20376.0
+27324,World,2015-01-01,Spinach,5419,hg/ha,285493.0
+27385,World,2015-01-01,Watermelons,5419,hg/ha,317882.0
+27388,World,2015-01-01,Wheat,5419,hg/ha,33217.0
+27544,World,2016-01-01,Cranberries,5419,hg/ha,249642.0
+27548,World,2016-01-01,Cucumbers and gherkins,5419,hg/ha,367906.0
+27591,World,2016-01-01,"Ginger, raw",5419,hg/ha,92575.0
+27603,World,2016-01-01,Green garlic,5419,hg/ha,173240.0
+27695,World,2016-01-01,Oil palm fruit,5419,hg/ha,142324.0
+27766,World,2016-01-01,"Pumpkins, squash and gourds",5419,hg/ha,133632.0
+27782,World,2016-01-01,Rape or colza seed,5419,hg/ha,20763.0
+27838,World,2016-01-01,Spinach,5419,hg/ha,294306.0
+27899,World,2016-01-01,Watermelons,5419,hg/ha,319644.0
+27902,World,2016-01-01,Wheat,5419,hg/ha,34151.0
+28058,World,2017-01-01,Cranberries,5419,hg/ha,217068.0
+28062,World,2017-01-01,Cucumbers and gherkins,5419,hg/ha,389464.0
+28105,World,2017-01-01,"Ginger, raw",5419,hg/ha,87205.0
+28117,World,2017-01-01,Green garlic,5419,hg/ha,168328.0
+28209,World,2017-01-01,Oil palm fruit,5419,hg/ha,150569.0
+28280,World,2017-01-01,"Pumpkins, squash and gourds",5419,hg/ha,135049.0
+28296,World,2017-01-01,Rape or colza seed,5419,hg/ha,21413.0
+28352,World,2017-01-01,Spinach,5419,hg/ha,303466.0
+28413,World,2017-01-01,Watermelons,5419,hg/ha,325801.0
+28416,World,2017-01-01,Wheat,5419,hg/ha,35380.0
+28572,World,2018-01-01,Cranberries,5419,hg/ha,253462.0
+28576,World,2018-01-01,Cucumbers and gherkins,5419,hg/ha,400411.0
+28617,World,2018-01-01,"Ginger, raw",5419,hg/ha,104501.0
+28629,World,2018-01-01,Green garlic,5419,hg/ha,169175.0
+28721,World,2018-01-01,Oil palm fruit,5419,hg/ha,147829.0
+28792,World,2018-01-01,"Pumpkins, squash and gourds",5419,hg/ha,152711.0
+28808,World,2018-01-01,Rape or colza seed,5419,hg/ha,20422.0
+28864,World,2018-01-01,Spinach,5419,hg/ha,314496.0
+28925,World,2018-01-01,Watermelons,5419,hg/ha,324592.0
+28928,World,2018-01-01,Wheat,5419,hg/ha,34244.0
+29084,World,2019-01-01,Cranberries,5419,hg/ha,227516.0
+29088,World,2019-01-01,Cucumbers and gherkins,5419,hg/ha,407960.0
+29129,World,2019-01-01,"Ginger, raw",5419,hg/ha,106263.0
+29141,World,2019-01-01,Green garlic,5419,hg/ha,170798.0
+29233,World,2019-01-01,Oil palm fruit,5419,hg/ha,146827.0
+29304,World,2019-01-01,"Pumpkins, squash and gourds",5419,hg/ha,155104.0
+29320,World,2019-01-01,Rape or colza seed,5419,hg/ha,20947.0
+29376,World,2019-01-01,Spinach,5419,hg/ha,324713.0
+29437,World,2019-01-01,Watermelons,5419,hg/ha,331486.0
+29440,World,2019-01-01,Wheat,5419,hg/ha,35424.0
+29596,World,2020-01-01,Cranberries,5419,hg/ha,220181.0
+29600,World,2020-01-01,Cucumbers and gherkins,5419,hg/ha,421101.0
+29641,World,2020-01-01,"Ginger, raw",5419,hg/ha,104845.0
+29653,World,2020-01-01,Green garlic,5419,hg/ha,171211.0
+29745,World,2020-01-01,Oil palm fruit,5419,hg/ha,144681.0
+29816,World,2020-01-01,"Pumpkins, squash and gourds",5419,hg/ha,156827.0
+29832,World,2020-01-01,Rape or colza seed,5419,hg/ha,20772.0
+29888,World,2020-01-01,Spinach,5419,hg/ha,342136.0
+29949,World,2020-01-01,Watermelons,5419,hg/ha,339448.0
+29952,World,2020-01-01,Wheat,5419,hg/ha,34739.0
+30102,World,2021-01-01,Cranberries,5419,hg/ha,209899.0
+30105,World,2021-01-01,Cucumbers and gherkins,5419,hg/ha,430573.0
+30146,World,2021-01-01,"Ginger, raw",5419,hg/ha,108835.0
+30158,World,2021-01-01,Green garlic,5419,hg/ha,169987.0
+30240,World,2021-01-01,Oil palm fruit,5419,hg/ha,144033.0
+30307,World,2021-01-01,"Pumpkins, squash and gourds",5419,hg/ha,158380.0
+30323,World,2021-01-01,Rape or colza seed,5419,hg/ha,19398.0
+30375,World,2021-01-01,Spinach,5419,hg/ha,350585.0
+30434,World,2021-01-01,Watermelons,5419,hg/ha,335257.0
+30437,World,2021-01-01,Wheat,5419,hg/ha,34919.0
